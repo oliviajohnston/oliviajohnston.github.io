@@ -1,0 +1,9 @@
+
+body {background:lightpink;color:darkslategrey;font-size:14;}
+
+body {font-family: 'Inconsolata' , sans-serif;}
+h1 {font-size: 250%; font-weight: bolder; color: indigo}
+nav li {display: inline-block}
+nav li { border: 4px skyblue }
+
+h1 {border-left: 10px cornflowerblue}
